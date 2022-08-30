@@ -12,5 +12,6 @@
 
 输入s_num并执行task5_new()可以寻找第s_num个S盒的最优差分特征
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20211017214207931.png" alt="image-20211017214207931" style="zoom:67%;" />
+![image](https://user-images.githubusercontent.com/105496872/187434502-c31785ce-0cfa-4447-90ec-b6a3ac14dc89.png)
+
 
